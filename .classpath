@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/antlr.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/fastutil5-5.0.9.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/findbugs-1.3.2-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/fontbox-1.8.4.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/gson-1.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/hadoop-0.20.2+228-core.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/JavaFastPFOR_Terrier.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/jforests-0.0.4-SNAPSHOT-jar-pack.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/kamikaze-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/org.mortbay.jetty-5.1.15.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/pdfbox-1.8.4.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/sam-1.108.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/snowball-20071024.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/terrier-4.0-core.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/terrier-4.0-desktop.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/terrier-4.0-learning.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/terrier-4.0-test.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/terrier-4.0-trec.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/terrier-4.0-websitesearch.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/terrier-4.0/terrier-4.0-win/lib/trove-2.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/项目/workspace/Test0930/lib/mongo-2.10.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
